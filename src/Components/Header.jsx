@@ -44,12 +44,17 @@ const Header = () => {
         <h1>KAMUI</h1>
       </div>
       <div className="socials">
-        <img className="invert" src={TwitterIcon} alt="" />
+        <a href="https://www.twitter.com/kamui_nft">
+            <img className="invert" src={TwitterIcon} alt="" />
+        </a>
+        <a href="https://www.discord.gg/gt3uNqfCHA">
+
         <img
           src={DiscordIcon}
           className="brightness-0"
           alt=""
         />
+        </a>
       </div>
       <h1 className="background-text">カムイ</h1>
     </div>

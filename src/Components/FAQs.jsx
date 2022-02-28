@@ -26,32 +26,13 @@ export default function FAQs() {
                 <div class="w-full mt-3">
                   <div class="flex items-center justify-between">
                     <h3 class="text-xl font-bold">
-                      What even is Project Kamui?
+                      What Is Kamui
                     </h3>
                     <span class="ml-4"></span>
                   </div>
                   <div class="mt-6 border-l-2 border-gray-50 pl-10">
                     <p class="mb-5 text-xl">
-                      The point of using Lorem Ipsum is that it has a
-                      more-or-less normal:
-                    </p>
-                    <p class="mb-2 text-lg">
-                      <span
-                        style={{
-                          backgroundColor: "#c55050",
-                        }}
-                        class="inline-block mr-6 h-2 w-2 rounded-full "
-                      ></span>
-                      <span>Distribution of letters</span>
-                    </p>
-                    <p class="text-lg">
-                      <span
-                        style={{
-                          backgroundColor: "#c55050",
-                        }}
-                        class="inline-block mr-6 h-2 w-2 rounded-full "
-                      ></span>
-                      <span>Content here</span>
+                     A collection of divine mortals preparing for the Armageddon.
                     </p>
                   </div>
                 </div>
@@ -71,31 +52,12 @@ export default function FAQs() {
                 </div>
                 <div class="w-full mt-3">
                   <div class="flex items-center justify-between">
-                    <h3 class="text-xl font-bold">What's the mint price?</h3>
+                    <h3 class="text-xl font-bold">What is Supply</h3>
                     <span class="ml-4"></span>
                   </div>
                   <div class="mt-6 border-l-2 border-gray-50 pl-10">
                     <p class="mb-5 text-xl">
-                      The point of using Lorem Ipsum is that it has a
-                      more-or-less normal:
-                    </p>
-                    <p class="mb-2 text-lg">
-                      <span
-                        style={{
-                          backgroundColor: "#c55050",
-                        }}
-                        class="inline-block mr-6 h-2 w-2 rounded-full"
-                      ></span>
-                      <span>Distribution of letters</span>
-                    </p>
-                    <p class="text-lg">
-                      <span
-                        style={{
-                          backgroundColor: `#c55050`,
-                        }}
-                        class="inline-block mr-6 h-2 w-2 rounded-full"
-                      ></span>
-                      <span>Content here</span>
+                        The total supply will be 555
                     </p>
                   </div>
                 </div>
@@ -117,32 +79,26 @@ export default function FAQs() {
                 <div class="w-full mt-3">
                   <div class="flex items-center justify-between">
                     <h3 class="text-xl font-bold">
-                      When will the mint be live?
+                      What is the mint price
                     </h3>
                     <span class="ml-4"></span>
                   </div>
                   <div class="mt-6 border-l-2 border-gray-50 pl-10">
                     <p class="mb-5 text-xl">
-                      The point of using Lorem Ipsum is that it has a
-                      more-or-less normal:
+                        0.5 Sol
                     </p>
-                    <p class="mb-2 text-lg">
-                      <span
-                        style={{
-                          backgroundColor: "#c55050",
-                        }}
-                        class="inline-block mr-6 h-2 w-2 rounded-full"
-                      ></span>
-                      <span>Distribution of letters</span>
-                    </p>
-                    <p class="text-lg">
-                      <span
-                        style={{
-                          backgroundColor: "#c55050",
-                        }}
-                        class="inline-block mr-6 h-2 w-2 rounded-full"
-                      ></span>
-                      <span>Content here</span>
+                  </div>
+                </div>
+                <div class="w-full mt-3">
+                  <div class="flex items-center justify-between">
+                    <h3 class="text-xl font-bold">
+                      Wen mint
+                    </h3>
+                    <span class="ml-4"></span>
+                  </div>
+                  <div class="mt-6 border-l-2 border-gray-50 pl-10">
+                    <p class="mb-5 text-xl">
+                        3rd March 2022
                     </p>
                   </div>
                 </div>
