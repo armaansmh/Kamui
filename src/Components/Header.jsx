@@ -38,7 +38,7 @@ const Header = () => {
         <div className="white-bg"></div>
       </div>
       <div className="img-container">
-        <img ref={image} src={require("../Assets/Fireboy.png")} alt="" />
+        <img ref={image} src={require("../Assets/Moongirl.png")} alt="" />
       </div>
       <div className="text-container-app">
         <h1>KAMUI</h1>
