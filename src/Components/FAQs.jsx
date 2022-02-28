@@ -89,6 +89,20 @@ export default function FAQs() {
                     </p>
                   </div>
                 </div>
+              </button>
+            </li>
+            <li class="mb-4 px-4 lg:px-12 py-8 bg-white rounded-2xl">
+              <button class="flex w-full text-left">
+                <div class="w-auto mr-8">
+                  <span
+                    style={{
+                      backgroundColor: "#ff6b6b",
+                    }}
+                    class="flex items-center justify-center w-12 h-12 text-lg font-bold bg-blue-100 rounded-full"
+                  >
+                    3
+                  </span>
+                </div>
                 <div class="w-full mt-3">
                   <div class="flex items-center justify-between">
                     <h3 class="text-xl font-bold">
