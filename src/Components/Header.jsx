@@ -22,11 +22,8 @@ const Header = () => {
     const after = CSSRulePlugin.getRule('.img-container:after');
     const bganimation = gsap.fromTo(blackBg.current, {width: "0"}, {width: "50%", ease: Power4})
     const imagecontainerAnimation = gsap.fromTo(after, {width: "100%"}, {width: "0%"})
-    const imageAnimation = gsap.fromTo(image.current, {scale: 2}, {scale: 1, ease: Power4.easeInOut});
     imagecontainerAnimation.duration(2)
     imagecontainerAnimation.delay(0.4)
-    imageAnimation.duration(2)
-    imageAnimation.delay(0.4)
     bganimation.duration(2)
     bganimation.delay(0.4)
   }, [])
