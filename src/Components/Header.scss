@@ -144,3 +144,8 @@
 .brightness-0 {
   filter: brightness(0);
 }
+
+.img-container::after {
+  width: 0;
+  background-color: transparent;
+}
