@@ -19,7 +19,6 @@ const Header = () => {
   const image = useRef(null)
 
   useEffect(() => {
-    const after = CSSRulePlugin.getRule('.img-container:after');
     const bganimation = gsap.fromTo(blackBg.current, {width: "0"}, {width: "50%", ease: Power4})
     const imagecontainerAnimation = gsap.fromTo(after, {width: "100%"}, {width: "0%"})
     imagecontainerAnimation.duration(2)
