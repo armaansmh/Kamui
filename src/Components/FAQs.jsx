@@ -85,7 +85,7 @@ export default function FAQs() {
                   </div>
                   <div class="mt-6 border-l-2 border-gray-50 pl-10">
                     <p class="mb-5 text-xl">
-                        0.5 Sol
+                        0.75 SOL 
                     </p>
                   </div>
                 </div>

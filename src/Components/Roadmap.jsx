@@ -5,9 +5,9 @@ import RoadmapElement from './RoadmapElement'
 
 export default function Roadmap() {
     const [roadmaps, setRoadmaps] = useState([
-        { phase: 'Phase 1', title: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting' },
-        { phase: 'Phase 2', title: 'Have Sex with your moam test test test testLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting' },
-        { phase: 'Phase 3', title: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting' },
+        { phase: 'Phase 1', title: 'Mint of 555 divine mortals and Listing on Secondary Marketplace' },
+        { phase: 'Phase 2', title: 'Launch of token and staking and DAO implimentation' },
+        { phase: 'Phase 3', title: 'Release of the pixelated Kamuis into the metaverse to form the Chapter 2 of the roadmap' },
     ])
   return (
     <div id="roadmap" style={{
